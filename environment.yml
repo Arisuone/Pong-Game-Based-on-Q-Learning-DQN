@@ -1,0 +1,7 @@
+name: qlearning39-game
+dependencies:
+  - python=3.9.23
+  - pip
+  - pip:
+      - matplotlib==3.9.4 
+      - pygame==2.6.1
